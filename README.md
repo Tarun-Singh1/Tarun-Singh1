@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tarun Singh
 
 🎓 I’m a 19-year-old student at the University of Texas at Dallas, Fall 2025.  
-🔧 While I’m currently majoring in Mechanical Engineering, I plan to switch to **Computer Science** — where my true passion lies.
+🔧 While I’m currently majoring in Mechanical Engineering.
 
 ---
 
